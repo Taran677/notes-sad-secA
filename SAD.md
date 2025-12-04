@@ -129,7 +129,7 @@ graph TD
 2. Feedback measures output against a standard in some form of cybernetic procedure that includes _communication_ and _control_. 
 3. Feedback may be _positive_ or _negative, routine_ or _informational_.
 4. Positive feedback refinforces the performance of the system. It is routine in nature.
-5. Negative feedback generlly provides the controller with information for action.
+5. Negative feedback generally provides the controller with information for action.
 
 ### Environment:
 1. The _environment_ is the "suprasystem" within which an organization operates.
