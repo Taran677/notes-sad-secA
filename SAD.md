@@ -60,7 +60,7 @@ graph TD
 3. For another example the _Central Processing Unit_ must interact with the input device to solve a problem.
 
 **Interdependence**:
-1. _Interdependence_ means that the parts of the ordanization or computer system depend on one another and they are linked together according to a plan.
+1. _Interdependence_ means that the parts of the organization or computer system depend on one another and they are linked together according to a plan.
 2. The output of one subsystem is the required input of another system.
 3. No subsystem can function in isolation.
 
